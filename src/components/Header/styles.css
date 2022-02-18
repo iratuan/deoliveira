@@ -1,0 +1,22 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background: #000!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1)!important;
+}
+.dropdown-menu.show {
+    background: #000;
+    color: #fff !important;
+}
+.dropdown-item {
+    color: #fff!important; 
+    padding-left: 0!important;
+    font-size: .8em;
+}
+
+.nav-link, .dropdown-menu {
+    padding-left: 1.75em!important;
+    text-transform: uppercase;
+    font-size: .8em;
+}
